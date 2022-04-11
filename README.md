@@ -1,5 +1,10 @@
 ### Hi there 👋
+**Hello this is my personal GitHub readme, I am a first year CS major @UC, Irvine.**
 
+I want to be a computer scientist. Some fun fact about me is that this is the first time I start to use GitHub.  
+My pronounce is He/His/Him. I am a beginner, I really want to learn more about coding. I wish to get an internship soon, hopefully. I am currently learning about discrete math for Computer Science, boolean algebra, linear algebra, and Intermediate Programming. I do Python and Java, and a little HTML.
+
+[Link]()
 <!--
 **Zotman03/Zotman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
