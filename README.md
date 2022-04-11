@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am David
 **Hello this is my personal GitHub readme, I am a first year CS major @UC, Irvine.**
 
 I want to be a computer scientist. Some fun fact about me is that this is the first time I start to use GitHub.  
