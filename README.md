@@ -1,8 +1,8 @@
-### Hi there 👋 I am David
-**Hello this is my personal GitHub readme, I am a first year CS major @UC, Irvine.**
+### Hi there 👋 I am David Ning
+**Hello this is my personal GitHub readme, I am a second year CS major @UC, Irvine.**
 
-I want to be a computer scientist. Some fun fact about me is that this is the first time I start to use GitHub.  
-My pronounce is He/His/Him. I am a beginner, I really want to learn more about coding. I wish to get an internship soon, hopefully. I am currently learning about discrete math for Computer Science, boolean algebra, linear algebra, and Intermediate Programming. I do Python and Java, and a little HTML.
+I want to be a computer scientist.
+My pronounce is He/His/Him. I wish to get an internship soon, hopefully. I am currently learning about Machine Learning, Software Engineering, and C++. I do Python, Java, and C++.
 
 The link below is my github's profile. Currently I don't have a lot of stuff in there but I will create more eventually.
 
