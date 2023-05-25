@@ -2,7 +2,7 @@
 **Hello this is my personal GitHub readme, I am a second year CS major @UC, Irvine.**
 
 I want to be a computer scientist.
-My pronounce is He/His/Him. I wish to get an internship soon, hopefully. I am currently learning about Machine Learning, Software Engineering, and C++. I do Python, Java, and C++.
+My pronounce is He/His/Him. I wish to get an internship soon.
 
 The link below is my github's profile. Currently I don't have a lot of stuff in there but I will create more eventually.
 
