@@ -1,7 +1,7 @@
-### Hi there 👋 I am David Ning
-**Hello this is my personal GitHub readme, I am a second year CS major @UC, Irvine.**
+### Hello I am David Ning 👋
+**Hello this is my personal GitHub readme, I am a Third year CS major @UC, Irvine.**
 
-I want to be a computer scientist.
+My interests are Artificial intelligence / Machine Learning / Virtual Reality.
 My pronounce is He/His/Him. I wish to get an internship soon.
 
 The link below is my github's profile. Currently I don't have a lot of stuff in there but I will create more eventually.
