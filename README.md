@@ -2,9 +2,9 @@
 **Hello this is my personal GitHub readme, I am a Third year CS major @UC, Irvine.**
 
 My interests are Artificial intelligence / Machine Learning / Virtual Reality.
-My pronounce is He/His/Him. I wish to get an internship soon.
+My pronounce is He/His/Him. I want to study more in the field of intelligence system.
 
-The link below is my github's profile. Currently I don't have a lot of stuff in there but I will create more eventually.
+I am currently working on three projects (Virtual Reality and Education, Large Language Model and Judicial Fariness, Computer Network)
 
 [Link](https://github.com/Zotman03)
 <!--
