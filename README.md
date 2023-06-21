@@ -6,7 +6,7 @@ My pronounce is He/His/Him. I want to study more in the field of intelligence sy
 
 I am currently working on three projects (Virtual Reality and Education, Large Language Model and Judicial Fariness, Computer Network)
 
-[Link](https://github.com/Zotman03)
+[Link](https://ningzhenglin.github.io)
 <!--
 **Zotman03/Zotman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
