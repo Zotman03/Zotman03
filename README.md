@@ -1,8 +1,8 @@
-### Hello I am David Ning 👋
-**Hello this is my personal GitHub readme, I am a Third year CS major @UC, Irvine.**
+### Hello I am David Ning (He/Him) 👋
+**Hello this is my personal GitHub readme, I am a Third year Computer Science major @UC, Irvine.**
 
 My interests are Artificial intelligence / Machine Learning / Virtual Reality.
-My pronounce is He/His/Him. I want to study more in the field of intelligence system.
+I want to study more in the field of intelligence system. I wonder how AI can be applied to other fields of computer science
 
 I am currently working on three projects (Virtual Reality and Education, Large Language Model and Judicial Fariness, Computer Network)
 
