@@ -1,10 +1,9 @@
 ### Hello I am David Ning (He/Him) 👋
-**Hello this is my personal GitHub readme, I am a Third year Computer Science major @UC, Irvine.**
+**Hello this is my personal GitHub readme, I am a Third year Computer Science major with a specialization in Intelligence System @UC, Irvine.**
 
-My interests are Artificial intelligence / Machine Learning / Virtual Reality.
-I want to study more in the field of intelligence system. I wonder how AI can be applied to other fields of computer science
+Currently I am working on a Virtual Reality game :)
 
-I am currently working on three projects (Virtual Reality and Education, Large Language Model and Judicial Fariness, and Domain Name System)
+I am open to internships :)
 
 [Personal Website (Still working on it:))](https://ningzhenglin.github.io)
 <!--
