@@ -1,5 +1,5 @@
 ### I am David Ning 👋
-**Hello this is my personal GitHub readme, I am a Third year Computer Science major with a specialization in Intelligence System @UC, Irvine. I am going to graduate in December 2024**
+**Hello this is my personal GitHub readme, I am a Third year Computer Science major with a specialization in Intelligence System @UC, Irvine. I am going to graduate in June 2024**
 
 Currently I am working on a Virtual Reality game :)
 
