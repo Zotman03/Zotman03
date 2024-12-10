@@ -1,11 +1,8 @@
 ### I am David Ning 👋
-**Hello this is my personal GitHub readme, I am a Third year Computer Science major with a specialization in Intelligence System @UC, Irvine. I am going to graduate in June 2024**
+**Hello this is my personal GitHub readme, I am a First year Computer Science Master with a specialization in AI/ML at Brown University. I am going to graduate in May 2026**
 
-Currently I am working on a Virtual Reality game :)
+I am open to internship opportunities :)
 
-I am open to internships :)
-
-[Personal Website (Still working on it:))](https://ningzhenglin.github.io)
 <!--
 **Zotman03/Zotman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
