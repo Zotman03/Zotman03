@@ -1,5 +1,5 @@
 ### I am David Ning 👋
-**Hello this is my personal GitHub readme, I am a First year Computer Science Master with a specialization in AI/ML at Brown University. I am going to graduate in May 2026**
+**Hello this is my personal GitHub readme, I am a First year Computer Science Master with a specialization in AI/ML at Brown University.**
 
 I am open to internship opportunities :)
 
