@@ -1,7 +1,7 @@
-### I am David Ning 👋
-**Hello this is my personal GitHub readme, I graduated from the University of California, Irvine, with a degree in Computer Science. Now, I am a First year Computer Science Master with a specialization in AI/ML at Brown University.**
+### I am Zhenglin Ning 👋
+**Hello, I am currently studying computer science at Brown University, focusing on the intersection of machine learning and information retrieval. I will graduate in May 2027**
 
-I am open to internship opportunities :)
+I am currently looking for a new grad SWE role but I am also open to Winter/Spring 2027 internship (SWE/MLE) opportunities :)
 
 <!--
 **Zotman03/Zotman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
