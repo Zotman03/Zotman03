@@ -1,19 +1,14 @@
-### I am Zhenglin Ning 👋
-**Hello, I am currently studying computer science at Brown University, focusing on the intersection of machine learning and information retrieval. I will graduate in May 2027**
+# Hi, I'm Zhenglin Ning 👋
 
-I am currently looking for a new grad SWE role but I am also open to Winter/Spring 2027 internship (SWE/MLE) opportunities :)
+I'm a Computer Science student at **Brown University**, graduating in **May 2027**, with a primary interest in **software engineering**, especially building reliable, scalable, and user-focused software.
 
-<!--
-**Zotman03/Zotman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently seeking **New Grad Software Engineer roles for 2027**, and I'm also open to **Winter/Spring 2027 SWE / MLE internships**.
 
-Here are some ideas to get you started:
+### 🔨 What I'm working on
+- Building full-stack and backend software projects
+- Designing practical tools and data-driven applications
+- Exploring machine learning and information retrieval
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+**Languages:** Python, Java, C#, JavaScript  
+**Interests:** Software Engineering, Backend Development, Full-Stack Development, Machine Learning
